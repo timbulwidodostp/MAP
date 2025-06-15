@@ -1,6 +1,8 @@
 # MAP
 Velicer's minimum average partial (MAP) test Use MAP (EFA.dimensions) With (In) R Software
 
+https://www.youtube.com/watch?v=60CBycmIkIM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
